@@ -20,6 +20,7 @@ Hi 👋!<br>I'm Rubina Dangol Maharjan | BTech in AI student from Kathmandu Univ
 
 
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RUBY-DANGOL&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ###
