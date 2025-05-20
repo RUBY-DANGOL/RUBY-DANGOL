@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Rubina Dangol Maharjan and I'm a BTech in AI student from Kathmandu University.<br>- Front-end developer <br>- exploring backend <br>- AI/ML <br>- exploring robotics<br>- Experienced in developing web projects and built Android apps with functional and user-focused designs.</h2>
+<h2 align="center">Hi 👋! 
+<br> I'm Rubina Dangol Maharjan | BTech in AI student from Kathmandu University. <br>- Full-Stack developer <br>- Passionate about AI/ML and Robotics. </h2>
 
 ###
 
