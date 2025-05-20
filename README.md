@@ -5,7 +5,7 @@ Hi 👋!<br>I'm Rubina Dangol Maharjan | BTech in AI student from Kathmandu Univ
 ###
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rubina_dangol_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rubina-maharjan-6036692aa/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/_rubina_dangol_/](https://www.instagram.com/_rubina_dangol_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rubina-maharjan-6036692aa) 
 
 
 # 💻 Tech Stack:
