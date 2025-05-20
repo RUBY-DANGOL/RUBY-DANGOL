@@ -1,5 +1,7 @@
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 # 💫 About Me:
 Hi 👋!<br>I'm Rubina Dangol Maharjan | BTech in AI student from Kathmandu University.<br>- Full-Stack developer<br>- Passionate about AI/ML and Robotics.
+
 ###
 
 ## 🌐 Socials:
@@ -16,7 +18,7 @@ Hi 👋!<br>I'm Rubina Dangol Maharjan | BTech in AI student from Kathmandu Univ
 ![](https://nirzak-streak-stats.vercel.app/?user=RUBY-DANGOL&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RUBY-DANGOL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 
 
