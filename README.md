@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" height="140" src="https://i.imgflip.com/65efzo.gif"  />
-Hi 👋!<br>I'm Rubina Dangol Maharjan | BTech in AI student from Kathmandu University.<br>- Full-Stack developer<br> - Passionate about AI/ML and Robotics.
+Hi 👋!<br>I'm Rubina Dangol Maharjan | BTech in AI student from Kathmandu University.<br>- AI fellow @ Fusemachine<br> - Passionate about AI/ML and Robotics.
 
 ###
 
